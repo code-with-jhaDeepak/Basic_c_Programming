@@ -1,5 +1,5 @@
 /*<== Defining constants in MACRO ==>*/
-#define flot LENGTH,x;
+#define flot LENGTH, int x;
 #define float WIDTH,y;
 #define NEWLINE '\n'
 #include<stdio.h>
