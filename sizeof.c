@@ -1,5 +1,6 @@
 #include<stdio.h>
-int main(){
+int main()
+{
     long long myLongHistory=900;
     char size=sizeof(myLongHistory);
 
